@@ -10,4 +10,5 @@ const form = document.getElementById('information-section');
 form.addEventListener('submit', (event) => {
   event.preventDefault();
   alert('We Will be with you Shortly, or Not at all');
+  alert('be sure to read ALL of the instructions!');
 });
