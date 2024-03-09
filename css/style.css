@@ -1,22 +1,24 @@
 /* Base Styles */
 #background-media {
-  background-image: url(../images/);
+  background-image: url(../media/IllI.png);
   background-position: center;
   background-size: cover;
+  background-color: #0D0606;
   height: 100vh;
   width: 100%;
 }
 
 body {
   font-family: 'Lora', Regular 400;
-  background-color: #;
+  background-color: #0D0606;
+  color: #9A8181;
   margin: 0;
   padding: 0;
 }
 
 header {
-  background-color: #;
-  color: #;
+  background-color: #0D0606;
+  color: #B78484;
   text-align: center;
   padding: 2rem 0;
 }
