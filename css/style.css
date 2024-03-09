@@ -74,14 +74,6 @@ input[type="password"] {
   border: 1px solid #943A3A;
   border-radius: 5px;
 }
-/* Secret Css */
-input[type="submit"] {
-  width: 100% #0D0606;
-  padding: 1rem #0D0606;
-  margin-bottom: 1rem;
-  border: 1px solid #0D0606;
-  border-radius: 5px;
-}
 
 /* Media Queries */
 @media (min-width: 720px) {
