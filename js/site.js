@@ -9,5 +9,5 @@ function showPassword() {
 const form = document.getElementById('information-section');
 form.addEventListener('submit', (event) => {
   event.preventDefault();
-  alert('Thank you for signing up!');
+  alert('We Will be with you Shortly, or Not at all');
 });
