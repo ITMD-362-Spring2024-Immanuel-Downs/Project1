@@ -36,22 +36,22 @@ main {
   max-width: 1200px;
   margin: 0 auto;
   padding: 2rem;
-  background-color: #;
+  background-color: #000000;
   border-radius: 8px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 10px rgba(183, 132, 132, 1);
 }
 
 /* Text Styles */
 h2 {
   font-size: 2rem;
   margin-bottom: 1.5rem;
-  color: #;
+  color: #9A8181;
 }
 
 h3 {
   font-size: 2rem;
   margin-bottom: 1.5rem;
-  color: #;
+  color: #9A8181;
 }
 
 form {
@@ -62,7 +62,7 @@ form {
 label {
   display: block;
   margin-bottom: 0.5rem;
-  color: #333;
+  color: #000000;
 }
 
 input[type="text"],
@@ -71,7 +71,7 @@ input[type="password"] {
   width: 100%;
   padding: 1rem;
   margin-bottom: 1rem;
-  border: 1px solid #ccc;
+  border: 1px solid #943A3A;
   border-radius: 5px;
 }
 
@@ -90,7 +90,7 @@ input[type="password"] {
 @media (min-width: 720px) {
   header {
     padding: 4rem 0;
-	background-image: url(../media/);
+	background-image: url(../media/IllIII.png);
 	background-position: center;
 	background-size: cover;
 	height: 100vh;
@@ -118,7 +118,7 @@ input[type="password"] {
 @media (max-width: 720px) {
   header {
     padding: 4rem 0;
-	background-image: url(../media/);
+	background-image: url(../media/media/IllIII.png);
 	background-position: center;
 	background-size: cover;
 	height: 100vh;
@@ -129,7 +129,7 @@ input[type="password"] {
     margin: 0 auto;
   }
   h1 {
-    color: #fe019a;
+    color: #B78484;
   }
   p {
     font-size: 1.5rem;
