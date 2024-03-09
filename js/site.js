@@ -6,3 +6,8 @@ function showPassword() {
     x.type = "password";
   }
 }
+const form = document.getElementById('information-section');
+form.addEventListener('submit', (event) => {
+  event.preventDefault();
+  alert('Thank you for signing up!');
+});
