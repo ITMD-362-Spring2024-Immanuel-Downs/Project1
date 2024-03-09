@@ -81,7 +81,8 @@ input[type="submit"] {
   margin-bottom: 1rem;
   border: 1px solid #0D0606;
   border-radius: 5px;
-  
+}
+
 /* Media Queries */
 @media (min-width: 720px) {
   header {
