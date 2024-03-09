@@ -75,18 +75,6 @@ input[type="password"] {
   border-radius: 5px;
 }
 
-/* Image styling */
-.image-section {
-  text-align: center; 
-}
-
-.image-section img {
-  max-width: 100%; 
-  height: auto; 
-  display: block; 
-  margin: 0 auto; 
-}
-
 @media (min-width: 720px) {
   header {
     padding: 4rem 0;
